@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Libra Designer]]></title>
+        <description><![CDATA[Libra Designer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Dec 2015 03:46:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["O usuário, antes um nômade anônimo caçador-coletor, agora tem nome e sobrenome e colhe feliz aquilo que planta na internet”​]]></title>
+            <description><![CDATA[<article><h1>"O usuário, antes um nômade anônimo caçador-coletor, agora tem nome e sobrenome e colhe feliz aquilo que planta na internet”​</h1><p>Empresa de Web Design especializada no desenvolvimento de sistema para web, personalização de temas e layouts para sistemas online. Criação de paginas nas redes sociais, com produção de conteúdo e gestão. Empregamos o design de forma estratégica na construção de marcas fortes e bem posicionadas na mente do consumidor</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d9557c4338b6b4cbe92fa2531309f6737e849fb.jpg"></article>]]></description>
+            <link>undefinedo-usuario-antes-um-nomade-anonimo-cacador-coletor-agora-t/index.html</link>
+            <guid isPermaLink="false">3c82232b-7acc-408c-a19e-9ba07c92281f</guid>
+            <pubDate>Thu, 24 Dec 2015 03:46:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
