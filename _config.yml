@@ -1,7 +1,7 @@
 name: LibraDesigner
 favicon: null
-layout_spectrum: 0.5607630352023989
-typography_spectrum: 0.10001
+layout_spectrum: 0.50658
+typography_spectrum: 0.84414
 title: Libra Designer
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.3125
+    - '#000000'
+    - '#ff0000'
+    - '#00ffff'
+    - '#ffff00'
+    - '#0076bf'
+  brandStrength: 1
   lightness: 0.5
-  saturation: 0.125
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
